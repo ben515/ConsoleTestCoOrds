@@ -1,0 +1,7 @@
+c:\users\ben\source\repos\ConsoleTestCoOrds\ConsoleTestCoOrds\bin\Debug\ConsoleTestCoOrds.exe.config
+c:\users\ben\source\repos\ConsoleTestCoOrds\ConsoleTestCoOrds\bin\Debug\ConsoleTestCoOrds.exe
+c:\users\ben\source\repos\ConsoleTestCoOrds\ConsoleTestCoOrds\bin\Debug\ConsoleTestCoOrds.pdb
+c:\users\ben\source\repos\ConsoleTestCoOrds\ConsoleTestCoOrds\obj\Debug\ConsoleTestCoOrds.csprojResolveAssemblyReference.cache
+c:\users\ben\source\repos\ConsoleTestCoOrds\ConsoleTestCoOrds\obj\Debug\ConsoleTestCoOrds.csproj.CoreCompileInputs.cache
+c:\users\ben\source\repos\ConsoleTestCoOrds\ConsoleTestCoOrds\obj\Debug\ConsoleTestCoOrds.exe
+c:\users\ben\source\repos\ConsoleTestCoOrds\ConsoleTestCoOrds\obj\Debug\ConsoleTestCoOrds.pdb
