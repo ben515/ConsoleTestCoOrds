@@ -19,15 +19,16 @@ namespace ConsoleTestCoOrds
     {
         static void Main(string[] args)
         {
-            //Initialize;
-            CoOrds coords1 = new CoOrds();
-            CoOrds coords2 = new CoOrds(10,10);
+            // Declare an object:
+            CoOrds coords1;
 
-            //Display results:
-            Console.Write("CoOrds 1:");
+            // Initialize:
+            coords1.x = 10;
+            coords1.y = 20;
+
+            // Display results:
+            Console.Write("CoOrds 1: ");
             Console.WriteLine("x = {0}, y = {1}", coords1.x, coords1.y);
-            Console.Write("CoOrds 2: ");
-            Console.WriteLine("x = {0}, y = {1}", coords2.x, coords2.y);
 
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");
